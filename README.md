@@ -27,17 +27,6 @@ Case data was obtained from a [Kaggle project](https://www.kaggle.com/antgoldblo
 #### Notes
 Although the repository was accessed in October 2021, it was posted in October 2017.
 
-### Mask Mandate Data
-
-#### Source
-Mask mandate data was obtained from the [CDC Policy Surveillance](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i) site, accessed on 2021-11-01.
-
-
-#### Description
-1. "Face_Masks_Required_in_Public": A requirement for individuals operating in a personal capacity to wear masks 1) anywhere outside their homes or 2) both in retail businesses and in restaurants/food establishments.
-
-#### Notes
-
 
 ### Mask Compliance Data
 
