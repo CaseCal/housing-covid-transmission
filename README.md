@@ -1,7 +1,7 @@
 # Covid and Masking in Gwinnet County
 
 ## Goal
-
+This project analyzes the impacct of affordable housing availability on COVID spread in Gwinnett County, GA. A transmission model is developed that estimates a Transmission Chancce and Exposure rate for each month in the pandemic. Demographic and LIHTC data are regressed against these parameters to determine relationships. A full analysis can be found in the included Word document.
 
 ## Setup
 
@@ -11,9 +11,6 @@ All scripts are run in Jupyter Notebook using python 3.7.9. The full list of dep
 ### How to Run
 All code used is contained in the notebook. Running all cells will collect and process all data.
 
-### Stages
-
-#### 1. Data Acquisition
 
 ## Data
 
